@@ -66,6 +66,13 @@ footer{
     padding-top: 10px;
 }
 @media (max-width:500px){
+  img{
+        height: 100%;
+        width: 100%;
+    }
+    nav img{
+        width: 300px !important;
+    }
     .hero{
         padding-left: 0px;
     }
@@ -76,8 +83,6 @@ footer{
    margin-left: 0px;
 }
 li .register{
-    
-    width: 120px;
-
+ border: none;
 }
 }
