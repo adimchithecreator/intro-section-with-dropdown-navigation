@@ -7,7 +7,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -31,9 +30,9 @@ Users should be able to:
 ### Screenshot
 ![Screenshot 2022-04-23 at 18-52-37 Frontend Mentor Intro section with dropdown navigation](https://user-images.githubusercontent.com/74629257/164934600-149629e0-1ef1-49e0-abfa-b5c5641935fa.png)
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+
+
 
 
 ## My process
